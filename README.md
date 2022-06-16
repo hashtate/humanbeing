@@ -1,2 +1,2 @@
 # humanbeing
-songchan not human being
+songchan is not human being
